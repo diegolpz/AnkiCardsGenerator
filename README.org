@@ -21,3 +21,7 @@ To check how it works just run "./Ankicardsgenerator RuEn.csv" and then import o
 2. Add support for other languages.
 * Notes
 - To do
+* Screenshots
+#+CAPTION: Example of card generated
+#+NAME: fig:example
+[[./media/Screenshot.png]]
