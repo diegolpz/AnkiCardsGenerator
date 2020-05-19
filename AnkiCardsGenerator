@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#
+# The first and only parameter of this script must be the file with
+# the list of words to translate
+
+
+rm out.csv
+while IFS= read -r line
+do
+    ./scripts/webScrapper $(echo $line | awk -F, '{print $2}' - )
+    ipa=$(python3 scripts/IPAScrapper.py)
+    a=$(python3 scripts/AudioScrapper.py)
+    audio=$(echo "<audio controls><source src=\"\"https:${a}\"\" type=\"\"audio/ogg\"\"></audio>")
+    word=$(echo $line | awk -F, '{print $1}' -)
+    trad=$(echo $line | awk -F, '{print $2}' -)
+    ans="<a href=\"\"https://en.wiktionary.org/wiki/${trad}#Russian\"\">${trad}</a>"
+    tab=$(cat new.html)
+    echo "${word},\"${ans} IPA:${ipa} ${audio}${tab}\"" >> out.csv
+done <<< $(cat $1)
+rm test.html test1.html new.html

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo $1
+curl https://en.wiktionary.org/wiki/$1#Russian -o test.html
+sed '0,/<h.*>[Rr]ussian</d' test.html > test1.html
+sed -E '0,/([Dd]eclension|[Cc]onjugation)/d' test1.html > test.html
+python3 scripts/TableScrapper.py | perl -pe 's/[a-zA-Z]*-?width[a-zA-Z0-9%;]*//g' | sed '/caption/d' | sed ':a;N;$!ba;s/\n//g' | sed 's/"/""/g'  > new.html
