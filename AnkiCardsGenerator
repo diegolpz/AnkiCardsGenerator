@@ -15,6 +15,7 @@ do
     trad=$(echo $line | awk -F, '{print $2}' -)
     ans="<a href=\"\"https://en.wiktionary.org/wiki/${trad}#Russian\"\">${trad}</a>"
     tab=$(cat new.html)
-    echo "${word},\"${ans} IPA:${ipa} ${audio}${tab}\"" >> out.csv
+    tags=$(echo $line | awk -F, '{print $3}' - )
+    echo "${word},\"${ans} IPA:${ipa} ${audio} ${tab}\",$(echo $line | awk -F, '{print $3}' - )" >> out.csv
 done <<< $(cat $1)
 rm test.html test1.html new.html

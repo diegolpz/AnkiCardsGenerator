@@ -1,55 +1,150 @@
-keys,ключ
-weather,погода
-today,сегодня
-good,хороший
-rich,богатый
-this,этот
-bag,сумка
-heavy,тяжёлый
-To look,смотреть
-there,там
-mine,мой
-friend,друг
-(nom) we,мы
-Brother,брат
-To play,играть
-House,дом
-At home,дома
-His,его
-He,он
-Her,её
-Child,дитя
-I,я
-Sister,сестра
-Nurce,медсестра
-Sick,больной
-Bed,кровать
-Hungry,голодный
-Not,не
-But however,но
-To want,хотеть
-To drink,пить
-Very,очень
-Elderly,пожилой
-Person,человек
-Ninety,девяносто
-Eighth,восемь
-Chair,стул
-Beautiful,красивый
-Comfortable,удобный
-Warm,тёплый
-Sunny,солнечный
-And,и
-To be late,опоздать
-To come,прийти
-Early,рано
-Work,работа
-Here,вот
-Yours,твой
-Coat,пальто
-What,как
-From where,откуда
-How many/much,сколько
-Twenty,двадцать
-Teacher,учитель
-What kind of,какой
+keys,ключ,g50
+weather,погода,g50
+today,сегодня,g50
+good,хороший,g50
+rich,богатый,g50
+this,этот,g50
+bag,сумка,g50
+heavy,тяжёлый,g50
+To look,смотреть,g50
+there,там,g50
+mine,мой,g50
+friend,друг,g50
+(nom) we,мы,g50
+Brother,брат,g50
+To play,играть,g50
+House,дом,g50
+At home,дома,g50
+His,его,g50
+He,он,g50
+Her,её,g50
+Child,дитя,g50
+I,я,g50
+Sister,сестра,g50
+Nurce,медсестра,g50
+Sick,больной,g50
+Bed,кровать,g50
+Hungry,голодный,g50
+Not,не,g50
+But however,но,g50
+To want,хотеть,g50
+To drink,пить,g50
+Very,очень,g50 100
+Elderly,пожилой,g50
+Person,человек,g50
+Ninety,девяносто,g50
+Eighth,восемь,g50
+Chair,стул,g50
+Beautiful,красивый,g50
+Comfortable,удобный,g50
+Warm,тёплый,g50
+Sunny,солнечный,g50
+And,и,g50
+To be late,опоздать,g50
+To come,прийти,g50
+Early,рано,g50
+Work,работа,g50
+Here,вот,g50
+Yours,твой,g50
+Coat,пальто,g50
+What,как,g50
+From where,откуда,g50
+How many/much,сколько,g50
+Twenty,двадцать,g50
+Teacher,учитель,g50
+What kind of,какой,g50
+(poss) yours,твой,g50
+To like/love,любить,g50
+Color,Цвет,g50
+Blue,голубой,g50
+(interrogative) what,что,g50
+You,ты,g50
+to take an interest in,увлекать,g50
+Hot,жаркий,g50
+Windy,ветреный,g50
+Hand,рука,g50
+Cold,холодный,g50
+Big,большой,g50 100
+Country,страна,g50
+Cheap,дешёвый,g50
+Tired,усталый,g50
+Swimmer,пловец,g50
+To swim,плавать,g50
+To be interested in,интересова́ться,g50
+Name,зовут,g50
+To be called,звaть,g50
+Married,замужем,g50
+Five,пять,g50
+Student,студент,g100
+Being on time,вовремя,g100
+Time,время,g100
+To go away by foot,уйти,g100
+Parents,родитель,g100
+Room,комната,g100
+A little,немного,g100
+Shoe,туфля,g100
+They,они,g100
+New,новый,g100 100
+Where,где,g100
+Car,машина,g100
+Red,красный,g100
+Four,четыре,g100
+Dear. sweet,милый,g100
+To cost,стоить,g100
+To be,быть,100
+There is/are,есть,100
+All,весь,100
+Behind for,за,100
+(interrogative) which,который,100
+One's own,свой,100
+So,так,100
+Our,наш,100
+Only,только,100
+Still. Yet,ещё,100
+Such. Suchlike,такой,100
+Be able to,мочь,100
+To speak/talk,говорить,100
+To say,сказать,100
+For,для,100
+Already,уже,100
+To know,знать,100
+When,когда,100
+Yes,Да,100 g100
+Different other,другой,100
+First,первый,100
+In order to,чтобы,100
+Year,год,100
+Business. Matter ,дело,100
+Being,стать,100
+Now,сейчас,100
+To go by foot,идти,100
+If,если,100
+Two,два,100
+Life,жизиь,100
+Go up. Until,до,100
+Each. Every,каждый,100
+The very/Most,самый,100
+To want/desire,хотеть,100
+Here,здесь,100
+It is necessary ,надо,100
+People,люди,100
+Now,теперь,100
+To go,пойти,100
+Once,раз,100
+Or,или,100
+Town. City,город,100
+Word,сдово,100
+Eye,глаз,100
+Then. Next,потом,100
+To see,видеть,100
+Their,их,100
+Under,под,100
+Even,даже,100
+To think,думать,100
+It is possible. ,можно,100
+Here.,тут,100
+Thousand,тысяча,100
+(question)Whether,ли,100
+Water,вода,100
+Nothing,ничто,100
+A lot. Much. Many. ,много,200
