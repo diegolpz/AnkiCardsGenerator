@@ -5,17 +5,21 @@
 
 
 rm out.csv
+
+# To clean up the input file , no undesired space, the last s/$// deletes the carriage return generated on windows systems
+sed -E '/^$/d;s/ +, +/,/;s/ +$//;s/$//' $1 > in.csv
+
 while IFS= read -r line
 do
-    ./scripts/webScrapper $(echo $line | awk -F, '{print $2}' - )
+    ./scripts/webScrapper $(echo $line | awk -F, '{print $1}' - )
     ipa=$(python3 scripts/IPAScrapper.py)
     a=$(python3 scripts/AudioScrapper.py)
     audio=$(echo "<audio controls><source src=\"\"https:${a}\"\" type=\"\"audio/ogg\"\"></audio>")
-    word=$(echo $line | awk -F, '{print $1}' -)
-    trad=$(echo $line | awk -F, '{print $2}' -)
+    word=$(echo $line | awk -F, '{print $2}' -)
+    trad=$(echo $line | awk -F, '{print $1}' -)
     ans="<a href=\"\"https://en.wiktionary.org/wiki/${trad}#Russian\"\">${trad}</a>"
     tab=$(cat new.html)
     tags=$(echo $line | awk -F, '{print $3}' - )
-    echo "${word},\"${ans} IPA:${ipa} ${audio} ${tab}\",$(echo $line | awk -F, '{print $3}' - )" >> out.csv
-done <<< $(cat $1)
-rm test.html test1.html new.html
+    echo "${trad},\"${ans} IPA:${ipa} ${audio} ${tab}\",${tags},${word}" >> out.csv
+done <<< $(cat in.csv)
+rm test.html test1.html new.html in.csv
