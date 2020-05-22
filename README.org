@@ -2,7 +2,7 @@
 * Introduction
 This little script generates anki cards to study russian.
 What it does is for each pair "russianTranslation,word,tags" it generates a anki card that has in one side the word and in the other the transltion of that word, the audio, the IPA transliteratio and the table of declensions
-To do that it uses a web scrapper to clean the info in the wiktionaty and embedd the respective html code to the anki card and format it in a csv file.
+To do that it uses a web scrapper to clean up the info in the wiktionaty and embedd the respective html code to the anki card and format it in a csv file.
 So shout outs to wiktionay
 The output file "out.csv" is formated to de imported by anki with the html intrepreter checked
 
@@ -15,7 +15,8 @@ The output file "out.csv" is formated to de imported by anki with the html intre
 * Usage
 Just run AnkiCardsGenerator script with input the name of a file which include all the pairs "translation,word,tags" you want, each on a single line.
 Check the file RuEn.csv for the formant.
-To check how it works just run "./Ankicardsgenerator RuEn.csv" and then import out.csv to anki as a csv file, make sure to check the html interpreter of anki and use the basic card format. Link field 1 to ignored, field 2 to back, field 3 to tags and field 4 to front. Choose Ipdate existing notes when first field matches.
+To check how it works just run "./Ankicardsgenerator RuEn.csv" and then import out.csv to anki as a csv file, make sure to check the html interpreter of anki and use the basic card format.
+Use the settings as shown in the next screenshot
 #+CAPTION: Import settings
 #+NAME: fig:importSettings
 [[./media/Screenshot1.png]]

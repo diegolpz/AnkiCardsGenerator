@@ -1,150 +1,239 @@
-ключ,keys,g50
-погода,weather,g50
-сегодня,today,g50
-хороший,good,g50
-богатый,rich,g50
-этот,this,g50
-сумка,bag,g50
-тяжёлый,heavy,g50
-смотреть,To look,g50
-там,there,g50
-мой,mine,g50
-друг,friend,g50
-мы,(nom) we,g50
-брат,Brother,g50
-играть,To play,g50
-дом,House,g50
-дома,At home,g50
-его,His,g50
-он,He,g50
-её,Her,g50
-дитя,Child,g50
-я,I,g50
-сестра,Sister,g50
-медсестра,Nurce,g50
-больной,Sick,g50
-кровать,Bed,g50
-голодный,Hungry,g50
-не,Not,g50
-но,But however,g50
-хотеть,To want,g50
-пить,To drink,g50
-очень,Very,g50 100
-пожилой,Elderly,g50
-человек,Person,g50
-девяносто,Ninety,g50
-восемь,Eighth,g50
-стул,Chair,g50
-красивый,Beautiful,g50
-удобный,Comfortable,g50
-тёплый,Warm,g50
-солнечный,Sunny,g50
-и,And,g50
-опоздать,To be late,g50
-прийти,To come,g50
-рано,Early,g50
-работа,Work,g50
-вот,Here,g50
-твой,Yours,g50
-пальто,Coat,g50
-как,What,g50
-откуда,From where,g50
-сколько,How many/much,g50
-двадцать,Twenty,g50
-учитель,Teacher,g50
-какой,What kind of,g50
-твой,(poss) yours,g50
-любить,To like/love,g50
-цвет,Color,g50
-голубой,Blue,g50
-что,(interrogative) what,g50
-ты,You,g50
-увлекать,to take an interest in,g50
-жаркий,Hot,g50
-ветреный,Windy,g50
-рука,Hand,g50
-холодный,Cold,g50
-большой,Big,g50 100
-страна,Country,g50
-дешёвый,Cheap,g50
-усталый,Tired,g50
-пловец,Swimmer,g50
-плавать,To swim,g50
-интересова́ться,To be interested in,g50
-зовут,Name,g50
-звaть,To be called,g50
-замужем,Married,g50
-пять,Five,g50
-студент,Student,g100
+быть,To be,f100
+весь,All,f100
+видеть,To see,f100
+вода,Water,f100
+глаз,Eye,f100
+говорить,To speak/talk,f100
+год,Year,f100
+город,Town. City,f100
+даже,Even,f100
+два,Two,f100
+дело,Business. Matter ,f100
+для,For,f100
+до,Go up. Until,f100
+другой,Different other,f100
+думать,To think,f100
+если,If,f100
+есть,There is/are,f100
+ещё,Still. Yet,f100
+жизиь,Life,f100
+за,Behind for,f100
+здесь,Here,f100
+знать,To know,f100
+идти,To go by foot,f100
+или,Or,f100
+их,Their,f100
+каждый,Each. Every,f100
+когда,When,f100
+который,(interrogative) which,f100
+ли,(question)Whether,f100
+люди,People,f100
+можно,It is possible. ,f100
+мочь,Be able to,f100
+надо,It is necessary ,f100
+наш,Our,f100
+ничто,Nothing,f100
+первый,First,f100
+под,Under,f100
+пойти,To go,f100
+потом,Then. Next,f100
+раз,Once,f100
+самый,The very/Most,f100
+свой,One's own,f100
+сдово,Word,f100
+сказать,To say,f100
+стать,Being,f100
+так,So,f100
+такой,Such. Suchlike,f100
+теперь,Now,f100
+только,Only,f100
+тут,Here.,f100
+тысяча,Thousand,f100
+уже,Already,f100
+чтобы,In order to,f100
+без,Without,f200
+больше,( comparative) More,f200
+вдруг,Suddenly.,f200
+взять,To take,f200
+всё,Always,f200
+второй,(adjective)Second,f200
+голова,Head,f200
+давать,To give.,f200
+дверь,Door,f200
+девушка,Girl,f200
+делать,To make. To do,f200
+должен,Ought. Must.,f200
+жить,To live,f200
+земля,Earth. Land.,f200
+казаться,To seem/look,f200
+лето,Summer.,f200
+маленький,Little. Small,f200
+мальчик,Boy,f200
+много,A lot. Much. Many. ,f200
+молодой,Young,f200
+несколько,A few. Slightly. Somewhat.,f200
+ни,Not a. Neither. Nor,f200
+перед,In front of. Before.,f200
+после,After,f200
+прийти,(perfective) to arrive/come (by foot),f200
+сам,Self,f200
+сделать,(perfective) to do/make,f200
+себя,(pronoun)Self,f200
+сидеть,To sit,f200
+совсем,Completely. Totally.,f200
+спросить,To ask,f200
+стол,Table,f200
+сторона,Side,f200
+стоять,To stand,f200
+то,That. Then. ,f200
+тогда,Then. At that time.,f200
+тоже,Too,f200
+трут,Labour,f200
+учиться,To study. To learn.,f200
+через,Across,f200
 вовремя,Being on time,g100
 время,Time,g100
-уйти,To go away by foot,g100
-родитель,Parents,g100
-комната,Room,g100
-немного,A little,g100
-туфля,Shoe,g100
-они,They,g100
-новый,New,g100 100
 где,Where,g100
-машина,Car,g100
+дорогой,Expensive,g100
+иду,(1s present) to go,g100
+из,From. Out of. ,g100
+китаец,Male Chinese,g100
+китай,China,g100
+комната,Room,g100
 красный,Red,g100
-четыре,Four,g100
+кто,Who,g100
+машина,Car,g100
+место,Place,g100
 милый,Dear. sweet,g100
+моё,Neuter nom. sing. Мой,g100
+мужчина,Man,g100
+немного,A little,g100
+номер,Number,g100
+один,One,g100
+они,They,g100
+отель,Hotel,g100
+отлично,Very good. Excellent,g100
+папа,Father,g100
+подруга,Girlfriend,g100
+почему,Why? ,g100
+родитель,Parents,g100
 стоить,To cost,g100
-быть,To be,100
-есть,There is/are,100
-весь,All,100
-за,Behind for,100
-который,(interrogative) which,100
-свой,One's own,100
-так,So,100
-наш,Our,100
-только,Only,100
-ещё,Still. Yet,100
-такой,Such. Suchlike,100
-мочь,Be able to,100
-говорить,To speak/talk,100
-сказать,To say,100
-для,For,100
-уже,Already,100
-знать,To know,100
-когда,When,100
-да,Yes,g100 100
-другой,Different other,100
-первый,First,100
-чтобы,In order to,100
-год,Year,100
-дело,Business. Matter ,100
-стать,Being,100
-сейчас,Now,100
-идти,To go by foot,100
-если,If,100
-два,Two,100
-жизиь,Life,100
-до,Go up. Until,100
-каждый,Each. Every,100
-самый,The very/Most,100
-хотеть,To want/desire,100
-здесь,Here,100
-надо,It is necessary ,100
-люди,People,100
-теперь,Now,100
-пойти,To go,100
-раз,Once,100
-или,Or,100
-город,Town. City,100
-сдово,Word,100
-глаз,Eye,100
-потом,Then. Next,100
-видеть,To see,100
-их,Their,100
-под,Under,100
-даже,Even,100
-думать,To think,100
-можно,It is possible. ,100
-тут,Here.,100
-тысяча,Thousand,100
-ли,(question)Whether,100
-вода,Water,100
-ничто,Nothing,100
-много,A lot. Much. Many. ,200
+студент,Student,g100
+тебя,(acc. gen.) you,g100
+телефона,Telephone,g100
+тот,That. Those.,g100
+туфля,Shoe,g100
+уйти,To go away by foot,g100
+фотоаппара́т,Camara,g100
+хочу,(1s present хотеть) to want,g100
+чёрный,Black,g100
+четыре,Four,g100
+да,Yes,g100 f100
+новый,New,g100 f100
+автобус,Bus.,g150
+апельсин,Orange,g150
+врач,Doctor.,g150
+далёкий,Far. Distant.,g150
+десять,Ten.,g150
+ей,dative of она,g150
+женатый,(of a man) married,g150
+женщина,Woman,g150
+какого,masculine singular genitive of како́й,g150
+катание,Skiing,g150
+лыжа,Ski,g150
+магазин,Store,g150
+них,(genitive) They ,g150
+остановить,Stop. Pause.,g150
+открыть,To open,g150
+отсюда,Far from. Hence.,g150
+почта,Mail. Post office.,g150
+рядом,Alongside. Beside. Side by side. Nearby.,g150
+светофор,Traffic light.,g150
+семь,Seven.,g150
+со,With. Off,g150
+спорт,Sport,g150
+тридцать,Thirty.,g150
+фотография,Photograph,g150
+шесть,Six,g150
+замёрзнуть,To freeze,g200
+тёмный,Dark,g200
+сейчас,Now,g200 f100
+я,I,g50
+богатый,rich,g50
+больной,Sick,g50
+брат,Brother,g50
+ветреный,Windy,g50
+восемь,Eighth,g50
+вот,Here,g50
+голодный,Hungry,g50
+голубой,Blue,g50
+двадцать,Twenty,g50
+девяносто,Ninety,g50
+дешёвый,Cheap,g50
+дитя,Child,g50
+дом,House,g50
+дома,At home,g50
+друг,friend,g50
+его,His,g50
+её,Her,g50
+жаркий,Hot,g50
+замужем,married (to a husband only),g50
+звать,To be called,g50
+зовут,Name,g50
+и,And,g50
+играть,To play,g50
+интересова́ться,To be interested in,g50
+как,What,g50
+какой,What kind of,g50
+ключ,keys,g50
+красивый,Beautiful,g50
+кровать,Bed,g50
+любить,To like/love,g50
+медсестра,Nurce,g50
+мой,mine,g50
+мы,(nom) we,g50
+не,Not,g50
+но,But however,g50
+он,He,g50
+она,She,g50
+опоздать,To be late,g50
+откуда,From where,g50
+пальто,Coat,g50
+пить,To drink,g50
+плавать,To swim,g50
+пловец,Swimmer,g50
+погода,weather,g50
+пожилой,Elderly,g50
+прийти,To come,g50
+пять,Five,g50
+работа,Work,g50
+рано,Early,g50
+рука,Hand,g50
+сегодня,today,g50
+сестра,Sister,g50
+сколько,How many/much,g50
+солнечный,Sunny,g50
+страна,Country,g50
+стул,Chair,g50
+сумка,bag,g50
+там,there,g50
+твой,(poss) yours,g50
+твой,Yours,g50
+тёплый,Warm,g50
+ты,You,g50
+тяжёлый,heavy,g50
+увлекать,to take an interest in,g50
+удобный,Comfortable,g50
+усталый,Tired,g50
+учитель,Teacher,g50
+холодный,Cold,g50
+хороший,good,g50
+цвет,Color,g50
+человек,Person,g50
+что,(interrogative) what,g50
+школе,School,g50
+этот,this,g50
+большой,Big,g50 f100
+очень,Very,g50 f100
+хотеть,To want/desire,g50 f100
+смотреть,To look,g50 f200

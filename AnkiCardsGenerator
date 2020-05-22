@@ -7,7 +7,7 @@
 rm out.csv
 
 # To clean up the input file , no undesired space, the last s/$// deletes the carriage return generated on windows systems
-sed -E '/^$/d;s/ +, +/,/;s/ +$//;s/$//' $1 > in.csv
+sed -E '/^$/d;s/ +, +/g,/;s/^ +//;s/ +$//;s/$//' $1 > in.csv
 
 while IFS= read -r line
 do
@@ -18,8 +18,9 @@ do
     word=$(echo $line | awk -F, '{print $2}' -)
     trad=$(echo $line | awk -F, '{print $1}' -)
     ans="<a href=\"\"https://en.wiktionary.org/wiki/${trad}#Russian\"\">${trad}</a>"
+    openRussian=$(echo "<a href=\"\"https://en.openrussian.org/ru/${trad}\"\"><sup><small>[openrussian]</small></sup></a> ")
     tab=$(cat new.html)
     tags=$(echo $line | awk -F, '{print $3}' - )
-    echo "${trad},\"${ans} IPA:${ipa} ${audio} ${tab}\",${tags},${word}" >> out.csv
+    echo "${word},\"${ans}${openRussian} IPA:${ipa} ${audio} ${tab}\",${tags}" >> out.csv
 done <<< $(cat in.csv)
 rm test.html test1.html new.html in.csv
