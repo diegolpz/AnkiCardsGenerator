@@ -1,239 +1,359 @@
-быть,To be,f100
-весь,All,f100
-видеть,To see,f100
-вода,Water,f100
-глаз,Eye,f100
-говорить,To speak/talk,f100
-год,Year,f100
-город,Town. City,f100
-даже,Even,f100
-два,Two,f100
-дело,Business. Matter ,f100
-для,For,f100
-до,Go up. Until,f100
-другой,Different other,f100
-думать,To think,f100
-если,If,f100
-есть,There is/are,f100
-ещё,Still. Yet,f100
-жизиь,Life,f100
-за,Behind for,f100
-здесь,Here,f100
-знать,To know,f100
-идти,To go by foot,f100
-или,Or,f100
-их,Their,f100
-каждый,Each. Every,f100
-когда,When,f100
-который,(interrogative) which,f100
-ли,(question)Whether,f100
-люди,People,f100
-можно,It is possible. ,f100
-мочь,Be able to,f100
-надо,It is necessary ,f100
-наш,Our,f100
-ничто,Nothing,f100
-первый,First,f100
-под,Under,f100
-пойти,To go,f100
-потом,Then. Next,f100
-раз,Once,f100
-самый,The very/Most,f100
-свой,One's own,f100
-сдово,Word,f100
-сказать,To say,f100
-стать,Being,f100
-так,So,f100
-такой,Such. Suchlike,f100
-теперь,Now,f100
-только,Only,f100
-тут,Here.,f100
-тысяча,Thousand,f100
-уже,Already,f100
-чтобы,In order to,f100
-без,Without,f200
-больше,( comparative) More,f200
-вдруг,Suddenly.,f200
-взять,To take,f200
-всё,Always,f200
-второй,(adjective)Second,f200
-голова,Head,f200
-давать,To give.,f200
-дверь,Door,f200
-девушка,Girl,f200
-делать,To make. To do,f200
-должен,Ought. Must.,f200
-жить,To live,f200
-земля,Earth. Land.,f200
-казаться,To seem/look,f200
-лето,Summer.,f200
-маленький,Little. Small,f200
-мальчик,Boy,f200
-много,A lot. Much. Many. ,f200
-молодой,Young,f200
-несколько,A few. Slightly. Somewhat.,f200
-ни,Not a. Neither. Nor,f200
-перед,In front of. Before.,f200
-после,After,f200
-прийти,(perfective) to arrive/come (by foot),f200
-сам,Self,f200
-сделать,(perfective) to do/make,f200
-себя,(pronoun)Self,f200
-сидеть,To sit,f200
-совсем,Completely. Totally.,f200
-спросить,To ask,f200
-стол,Table,f200
-сторона,Side,f200
-стоять,To stand,f200
-то,That. Then. ,f200
-тогда,Then. At that time.,f200
-тоже,Too,f200
-трут,Labour,f200
-учиться,To study. To learn.,f200
-через,Across,f200
-вовремя,Being on time,g100
-время,Time,g100
-где,Where,g100
-дорогой,Expensive,g100
-иду,(1s present) to go,g100
-из,From. Out of. ,g100
-китаец,Male Chinese,g100
-китай,China,g100
-комната,Room,g100
-красный,Red,g100
-кто,Who,g100
-машина,Car,g100
-место,Place,g100
-милый,Dear. sweet,g100
-моё,Neuter nom. sing. Мой,g100
-мужчина,Man,g100
-немного,A little,g100
-номер,Number,g100
-один,One,g100
-они,They,g100
-отель,Hotel,g100
-отлично,Very good. Excellent,g100
-папа,Father,g100
-подруга,Girlfriend,g100
-почему,Why? ,g100
-родитель,Parents,g100
-стоить,To cost,g100
-студент,Student,g100
-тебя,(acc. gen.) you,g100
-телефона,Telephone,g100
-тот,That. Those.,g100
-туфля,Shoe,g100
-уйти,To go away by foot,g100
-фотоаппара́т,Camara,g100
-хочу,(1s present хотеть) to want,g100
-чёрный,Black,g100
-четыре,Four,g100
-да,Yes,g100 f100
-новый,New,g100 f100
-автобус,Bus.,g150
-апельсин,Orange,g150
-врач,Doctor.,g150
-далёкий,Far. Distant.,g150
-десять,Ten.,g150
-ей,dative of она,g150
-женатый,(of a man) married,g150
-женщина,Woman,g150
-какого,masculine singular genitive of како́й,g150
-катание,Skiing,g150
-лыжа,Ski,g150
-магазин,Store,g150
-них,(genitive) They ,g150
-остановить,Stop. Pause.,g150
-открыть,To open,g150
-отсюда,Far from. Hence.,g150
-почта,Mail. Post office.,g150
-рядом,Alongside. Beside. Side by side. Nearby.,g150
-светофор,Traffic light.,g150
-семь,Seven.,g150
-со,With. Off,g150
-спорт,Sport,g150
-тридцать,Thirty.,g150
-фотография,Photograph,g150
-шесть,Six,g150
-замёрзнуть,To freeze,g200
-тёмный,Dark,g200
-сейчас,Now,g200 f100
-я,I,g50
-богатый,rich,g50
-больной,Sick,g50
-брат,Brother,g50
-ветреный,Windy,g50
-восемь,Eighth,g50
-вот,Here,g50
-голодный,Hungry,g50
-голубой,Blue,g50
-двадцать,Twenty,g50
-девяносто,Ninety,g50
-дешёвый,Cheap,g50
-дитя,Child,g50
-дом,House,g50
-дома,At home,g50
-друг,friend,g50
-его,His,g50
-её,Her,g50
-жаркий,Hot,g50
-замужем,married (to a husband only),g50
-звать,To be called,g50
-зовут,Name,g50
-и,And,g50
-играть,To play,g50
-интересова́ться,To be interested in,g50
-как,What,g50
-какой,What kind of,g50
-ключ,keys,g50
-красивый,Beautiful,g50
-кровать,Bed,g50
-любить,To like/love,g50
-медсестра,Nurce,g50
-мой,mine,g50
-мы,(nom) we,g50
-не,Not,g50
-но,But however,g50
-он,He,g50
-она,She,g50
-опоздать,To be late,g50
-откуда,From where,g50
-пальто,Coat,g50
-пить,To drink,g50
-плавать,To swim,g50
-пловец,Swimmer,g50
-погода,weather,g50
-пожилой,Elderly,g50
-прийти,To come,g50
-пять,Five,g50
-работа,Work,g50
-рано,Early,g50
-рука,Hand,g50
-сегодня,today,g50
-сестра,Sister,g50
-сколько,How many/much,g50
-солнечный,Sunny,g50
-страна,Country,g50
-стул,Chair,g50
-сумка,bag,g50
-там,there,g50
-твой,(poss) yours,g50
-твой,Yours,g50
-тёплый,Warm,g50
-ты,You,g50
-тяжёлый,heavy,g50
-увлекать,to take an interest in,g50
-удобный,Comfortable,g50
-усталый,Tired,g50
-учитель,Teacher,g50
-холодный,Cold,g50
-хороший,good,g50
-цвет,Color,g50
-человек,Person,g50
-что,(interrogative) what,g50
-школе,School,g50
-этот,this,g50
-большой,Big,g50 f100
-очень,Very,g50 f100
-хотеть,To want/desire,g50 f100
-смотреть,To look,g50 f200
+быть,To be,f100,Быть или не быть?,To be or not to be?
+видеть,To see,f100,Я вижу дом. Ты видишь её?,I see the house. Can you see her.
+глаз,Eye,f100,,
+говорить,To speak/talk,f100,,
+год,Year,f100,,
+даже,Even,f100,Она уже на пути сюда. Её даже нет здесь?,She's on her way here. She's not even here?
+два,Two,f100,,
+дело,Business. Matter ,f100,,
+для,For,f100,"Знаешь, что лучше всего для меня?",Do you know what's best for me?
+другой,Different. Other,f100,В другом доме,In another house.
+если,If,f100,Если она хочет я тоже хочу,If she wants I want too
+ещё,Still. Yet,f100,Еще больше поводов для праздника.,Even more reason to celebrate
+жизнь,Life,f100,Наша жизнь хорошая.,Our live is good.
+за,Behind for,f100,,
+здесь,Here,f100,Я здесь уже два года,I've been here for two years
+знать,To know,f100,"Вы думаете, что знаете ее, но это не так.",You think you know her. but you don't.
+идти,To go by foot,f100,"Куда же надо идти, по-твоему?",Where do you think we should go?
+или,Or,f100,,
+их,Their,f100,,
+когда,When,f100,,
+который,(interrogative) which,f100,,
+ли,(question)Whether,f100,,
+можно,It is possible. ,f100,,
+мочь,Be able to,f100,Я могу. Он не может говорить,I can. He can't speak.
+надо,It is necessary ,f100,Надо говорить по-русски,It is necessary to speak russian.
+наш,Our,f100,,
+ничто,Nothing,f100,"Человек ничто не уважает больше, чем пустой желудок.",A man respects nothing more than an empty stomach.
+первый,First,f100,,
+под,Under,f100,,
+пойти,To go,f100,,
+потом,Then. Next,f100,"Другой Дэйв, проверьте дверь, а потом помогите Аните.","The other Dave, check the door, and then help Anita."
+раз,Once,f100,,
+самый,The very/Most,f100,Самый большой дом,The biggest house.
+свой,One's own,f100,,
+сказать,To say,f100,,
+слово,Word,f100,,
+стать,Being,f100,Он стал говорить. Она стала инженером,He began to speak. She became an engineer.
+так,So,f100,Так что хватит жалеть себя,So stop feeling sorry for yourself
+такой,Such. Suchlike,f100,Такой большой сад,Such a large garden.
+теперь,Now,f100,теперь надо идти,Now it is necessary to go
+только,Only,f100,У ивана только один брат,Ivan has only one brother
+тысяча,Thousand,f100,Чтобы говорить по-русски,In order to speak russian
+чтобы,In order to,f100,,
+без,Without,f200,куда ж ты без шапки?,where are you going without a hat?
+больше,( comparative) More,f200,,
+вдруг,Suddenly.,f200,Вдруг все объяснилось.,Suddenly everything became clear.
+второй,(adjective)Second,f200,,
+давать,To give.,f200,Кто разрешил тебе давать мой номер?,Who gave you permission to give my number?
+дверь,Door,f200,,
+девушка,Girl,f200,"Да, девушка по имени Вибекка?","Yes, a girl named Vibeke?"
+должен,Ought. Must.,f200,"Что-то, должно быть, неправильно.",There must be something wrong.
+казаться,To seem/look,f200,Теперь уже это казалось ему натурально.,It seemed natural to him now.
+лето,Summer.,f200,"Всё ещё лето, и двое детей подходят ближе.","It was still summertime, and the children came closer."
+маленький,Little. Small,f200,Он такой маленький,He looks so tiny.
+мальчик,Boy,f200,,
+молодой,Young,f200,,
+несколько,A few. Slightly. Somewhat.,f200,Теперь все становится несколько яснее.,The question becomes a little clearer.
+ни,Not a. Neither. Nor,f200,,
+перед,In front of. Before.,f200,Прямо перед ним на секунду остановилась девушка.,A girl stopped in front of him for a moment.
+после,After,f200,,
+прийти,(perfective) to arrive/come (by foot),f200,,
+сам,Self,f200,,
+себя,(pronoun)Self,f200,,
+совсем,Completely. Totally.,f200,У них совсем другие правила.,Their rules are completely different.
+спросить,To ask,f200,я забыл вас спросить,I forgot to ask you
+сторона,Side,f200,,
+стоять,To stand,f200,,
+то,That. Then. ,f200,,
+тогда,Then. At that time.,f200,Тогда мы были детьми и не было войны.,We were children then and there was no war.
+тоже,Too,f200,Я тоже гуляю.,I also am taking a walk.
+трут,Labour,f200,,
+учиться,(reflexive)To study. To learn.,f200,,
+через,Across,f200,,
+сделать,(perfective) to do/make,f200 ,,
+вовремя,Being on time,g100,Ты как раз вовремя.,You're just in time
+время,Time,g100,,
+где,Where,g100,,
+дорогой,Expensive,g100,"Он уверяет, что это самый дорогой ресторан в Лондоне.",He says it's the most expensive place in London.
+иду,(1s present) to go,g100,,
+из,From. Out of. ,g100,,
+китаец,Male Chinese,g100,,
+китай,China,g100,,
+комната,Room,g100,"- Хорошая комната, - сказала Кэтрин. - Чудесная комната.","It's a fine room, Catherine said. It's a lovely room."
+красный,Red,g100,,
+кто,Who,g100,,
+машина,Car,g100,,
+место,Place,g100,,
+милый,Dear. sweet,g100,,
+моё,Neuter nom. sing. Мой,g100,,
+мужчина,Man,g100,"Потому что ты не мальчишка, а взрослый мужчина.","Because you are not a boy, but a grown man."
+немного,A little,g100,Надо поспать еще немного,I need to get some more sleep
+номер,Number,g100,,
+один,One,g100,,
+они,They,g100,,
+отель,Hotel,g100,,
+отлично,Very good. Excellent,g100,Я их отлично вижу в свете луны.,I can see them clearly in the moonlight.
+папа,Father,g100,,
+подруга,Girlfriend,g100,,
+почему,Why? ,g100,,
+родитель,Parents,g100,Что произошло с моими родителями?,What happened to my parents?
+стоить,To cost,g100,Она вам ничего не будет стоить.,It will not cost you anything.
+студент,Student,g100,,
+тебя,(acc. gen.) you,g100,,
+телефон,Telephone,g100,,
+тот,That. Those.,g100,,
+туфля,Shoe,g100,,
+уйти,To go away by foot,g100,,
+фотоаппарат,Camara,g100,,
+хочу,(1s present хотеть) to want,g100,,
+чёрный,Black,g100,,
+четыре,Four,g100,Стульев пришлось ждать часа четыре.,We had to wait about four hours for the chairs.
+да,Yes,g100 f100,,
+новый,New,g100 f100,,
+автобус,Bus.,g150,,
+апельсин,Orange,g150,Вот вам апельсин,Here's an orange for you
+врач,Doctor.,g150,Нам нужен врач!,We need a doctor!
+далёкий,Far. Distant.,g150,Мы не можем быть далеко.,We can't be far away.
+десять,Ten.,g150,,
+ей,dative of она,g150,,
+женатый,(of a man) married,g150,,
+женщина,Woman,g150,,
+какого,masculine singular genitive of како́й,g150,,
+катание,Skiing,g150,,
+лыжа,Ski,g150,,
+магазин,Store,g150,,
+них,(genitive) They ,g150,,
+остановить,Stop. Pause.,g150,,
+открыть,(perf)To open,g150,"А когда, батюшка, думаете открыть школу?","And when are you thinking of opening the school Father?"""
+отсюда,Far from. Hence.,g150,,
+почта,Mail. Post office.,g150,,
+рядом,Alongside. Beside. Side by side. Nearby.,g150,женщина с ребенком на руках молча стояла рядом.,a woman with a child in her arms stood silently by.
+светофор,Traffic light.,g150,,
+семь,Seven.,g150,,
+со,With. Off,g150,,
+спорт,Sport,g150,,
+тридцать,Thirty.,g150,,
+фотография,Photograph,g150,,
+шесть,Six,g150,Ведь шесть часов скоро!,It's almost six o'clock.
+встать,(perf)To stand up,g200,,
+газета,Newspaper,g200,,
+готовить,To prepare. To cook,g200,Я буду готовить ужин.,I'll cook dinner.
+дождь,Rain,g200,В центральных районах снег с дождем.,There will be rainfall and snow in the central areas.
+душ,Shower,g200,,
+ем,(1 singular) to eat,g200,,
+ждать,To wait,g200,,
+завтракать,To have breakfast,g200,,
+задание,Assignment. Task.,g200,,
+замёрзнуть,To freeze,g200,,
+звонить,To ring. ,g200,,
+извинить,To excuse. To forgive. To pardon,g200,,
+книга,Book,g200,"В руках у него была книга, но он не читал.","He had a book in his hand, but he wasn't reading it."
+кто-то,Somebody. Someone.,g200,,
+кухня,Kitchen,g200,,
+лежать,To lie,g200,Лежать под звездами.,Lie out underneath the stars.
+могу,(1 singular) be able to. ,g200,,
+моет,(3 singular) to wash,g200,,
+мою,(1 singular) to wash,g200,,
+мыть,To wash,g200,,
+нога,Foot,g200,,
+обедать,To eat lunch. ,g200,Мы собирались идти обедать.,We're going to lunch.
+остановиться,To stop. To stay.,g200,,
+отпуск,Vacation.,g200,,
+парк,Park,g200,,
+перезвонить,To call back.,g200,,
+писать,To write,g200,Мне опять стали писать из Парижа.,They started writing to me again from Paris.
+письмо,Letter,g200,,
+пляж,Beach,g200,,
+пожалуйста,Please. You're welcome. ,g200,,
+позже,Later,g200,"Я скажу, только позже, ладно?","I'll let you know, but later, all right?"
+пока,Goodbye,g200,,
+пол,Floor,g200,,
+потише,Quieter.,g200,Тише ты можешь?,Can't you be quieter?
+принимать,To take,g200,,
+рекв,River,g200,,
+светить,To shine,g200,,
+себя,(reflexive) myself,g200,"Я знаю тебя лучше, чем ты себя знаешь.",I know you better than you know yourself.
+сижу,(1 singular) to sit,g200,,
+слушать,To listen. ,g200,Хочешь слушать или нет?,Do you want to listen or not?
+смеётся,(3 singular) to laugh,g200,,
+смеяться,To laugh,g200,,
+снег,Snow,g200,,
+солнце,The sun,g200,,
+строить,To build,g200,,
+тёмный,Dark,g200,Только не очень темный.,Only not too dark.
+уходить,To leave. To go.,g200,,
+ухожу,(1 singular) to leave. To go,g200,Через десять минут ему уходить.,He should be leaving in ten minutes.
+учить,To learn/teach,g200,Почему же ему не учить других испанскому языку.,Why shouldn't he teach others Spanish?
+учу,(1 singular) to learn/teach,g200,,
+центр,Center,g200,Ты не против доставить её в центр?,You mind getting her downtown?
+читать,To read,g200,"Если же неправда там, то зачем их читать?","If it's not true, why read them?"
+чувствовать,To feel,g200,,
+шляпа,Hat,g200,,
+яблоко,Apple,g200,,
+есть,There is/are. To eat. ,g200 f100,,
+сейчас,Now,g200 f100,,
+тут,Here.,g200 f100,,
+уже,Already,g200 f100,Он уже знает об етом,He already know about this
+голова,Head,g200 f200,,
+делать,To make. To do,g200 f200,"Иди домой, делай вид что ничего не случилось",Go home and pretend nothing happened
+сидеть,To sit,g200 f200,,
+стол,Table,g200 f200,"Идите сюда, ложитесь на стол!","Come here, lie down on the table!"
+возьму,(1 singular) to take,g250,,
+выключить,To turn off,g250,,
+завтра,Tomorrow,g250,Это очень важно. Он будет завтра утром?,This is very important. Will he be here tomorrow morning?
+зонтик,Umbrella,g250,,
+кого,( accusative) who,g250,,
+куда,Where? ,g250,,
+на,On. Onto. To.,g250,,
+носить,To carry. To wear,g250,,
+нравиться,To like,g250,"Ей казалось, что доктор и сестра должны друг другу нравиться.",It seemed to her that the doctor and the nurse must like each other.
+плакать,To cry,g250,,
+подъезжать,To drive up,g250,,
+прямой,Straight. Right,g250,Я прямо напротив вас.,I'm right in front of you.
+сломать,To break,g250,,
+смешной,Funny,g250,,
+часы,Clock,g250,,
+что-нибудь,Anything. Something,g250,"А кроме куска янтаря, если у вас что-нибудь еще?","Besides that piece of amber, have you got anything else?"
+до,Go up. Until,g250 f100,Лучше разговор отложить до следующего дня.,It is better to postpone the conversation until the next day.
+взять,To take,g250 f200,Можете взять мою лошадь,You can take my horse
+банке,Bank,g300,,
+вечер,Tonight,g300,,
+вещь,Thing. Object,g300,,
+вокруг,Around,g300,,
+воскресенье,Sunday,g300,,
+вращаться,To turn. To rotate.,g300,,
+всегда,Always.,g300,Я всегда гуляю здесь рано утром.,I always walk here early in the morning.
+вставать,(imperf)To stand up,g300,,
+встречать,(impf) To meet.,g300,,
+выходные,Weekend,g300,,
+грязный,Dirty.,g300,,
+девять,Nine,g300,,
+день,Day,g300,,
+долгий,Long,g300,"День был долгий, и я устал.","The day has been long, and I am tired."
+долго,A long time.,g300,,
+еда,Food.,g300,,
+живу,(1 singular) to live,g300,,
+заканчивать,(impf) To end. To finish.,g300,,
+закрываться,(impf reflex) to close,g300,,
+занимать,To occupy. To borrow.,g300,,
+зима,Winter,g300,,
+иногда,Sometimes.,g300,Я и сам езжу иногда в Париж.,I sometimes go to Paris myself.
+кино,Cinema,g300,Я повела детей в кино.,I took the kids to the movies.
+летать,To fly.,g300,,
+мороженое,Ice cream,g300,,
+начинать,To begin. To start.,g300,,
+никогда,Never. ,g300,Никогда на нем не была. Я ужасно боюсь высоты.,I've never been on it. I'm terribly afraid of heights.
+ночь,Night,g300,,
+ночью,At night.,g300,,
+обычно,Usually,g300,Врач приезжал обычно пять раз в неделю.,The doctor usually came five times a week.
+обычный,Usual ,g300,,
+открываться,(impf reflex) to open,g300,,
+офисе,Office,g300,,
+пешком,On foot.,g300,Домой он пойдет пешком.,He'll be returning home on foot.
+преподавать,(impf) To teach. To lecture,g300,,
+разный,Different ,g300,,
+свободный,Free,g300,,
+спать,To sleep,g300,,
+спит,(3 singular) to sleep,g300,,
+танцевать,To dance.,g300,,
+усердно,Diligently,g300,,
+утро,Morning.,g300,,
+ходить,To walk.,g300,"Не надо ходить туда, поверьте мне!","Don't go there, believe me!"
+хожу,(1 singular) to walk,g300,,
+час,Hour,g300,Теперь который час?,What time is it now?
+часто,Frequently,g300,У неё очень часто болит голова,She has a very frequent headache
+частый,Frequent,g300,Мы частый гость при дворе в эти дни.,We are a frequent guest at court these days.
+язык,Tongue. Language.,g300,,
+весь,All,g300 f100,,
+город,Town. City,g300 f100,Ты не поедешь в город?,You're not going to the city?
+думать,To think,g300 f100,,
+каждый,Each. Every,g300 f100,Каждый день,Every day
+люди,People,g300 f100,другие люди в гостинице,The other people in the hotel
+всё,Always,g300 f200,,
+жить,To live,g300 f200,А где будете жить?,Where will you live?
+земля,Earth. Land.,g300 f200,,
+много,A lot. Much. Many. ,g300 f200,,
+закипать,( impf) to begin to boil.,g350,,
+при,In the presence of. In the time of.,g350,,
+приезжать,(impf) to arrive (by vehicle),g350,,
+сто,Hundred,g350,,
+вода,Water,g350 f100,Водка с водой. Пить воду.,Vodka with water. To drink water.
+богатый,rich,g50,,
+больной,Sick,g50,У нее вид совсем больной.,She looks very ill.
+брат,Brother,g50,,
+ветреный,Windy,g50,,
+восемь,Eighth,g50,,
+вот,Here,g50,,
+голодный,Hungry,g50,,
+голубой,Blue,g50,,
+двадцать,Twenty,g50,,
+девяносто,Ninety,g50,,
+дешёвый,Cheap,g50,Это дешево и просто.,It's cheap and easy.
+дитя,Child,g50,,
+дом,House,g50,,
+дома,At home,g50,,
+друг,friend,g50,,
+его,His,g50,,
+её,Her,g50,,
+жаркий,Hot,g50,День был жаркий.,It was a hot day.
+замужем,married (to a husband only),g50,,
+звать,To be called,g50,И вы будете звать меня Кэтрин?,And you will call me Catherine?
+зовут,Name,g50,,
+и,And,g50,,
+играть,To play,g50,,
+интересоваться,To be interested in,g50,,
+как,What,g50,,
+какой,What kind of,g50,,
+ключ,keys,g50,,
+красивый,Beautiful,g50,Это красивый лошадь,This is a beautiful horse
+кровать,Bed,g50,,
+любить,To like/love,g50,,
+медсестра,Nurce,g50,Ты очень хорошая медсестра.,You're a good nurse.
+мой,mine,g50,,
+мы,(nom) we,g50,,
+не,Not,g50,,
+но,But however,g50,,
+он,He,g50,,
+она,She,g50,,
+опоздать,To be late,g50,,
+откуда,From where,g50,,
+пальто,Coat,g50,,
+пить,To drink,g50,А теперь пойдем чай пить.,Now let us go and drink tea.
+плавать,To swim,g50,,
+пловец,Swimmer,g50,,
+погода,weather,g50,,
+пожилой,Elderly,g50,,
+прийти,To come,g50,Они попросили меня прийти,They asked me to come
+пять,Five,g50,,
+работа,Work,g50,,
+рано,Early,g50,Видели что-нибудь похожее ранее?,Have you seen anything similar before?
+рука,Hand,g50,,
+сегодня,today,g50,,
+сестра,Sister,g50,,
+сколько,How many/much,g50,,
+солнечный,Sunny,g50,,
+страна,Country,g50,,
+стул,Chair,g50,,
+сумка,bag,g50,,
+там,there,g50,,
+твой,(poss) yours,g50,,
+тёплый,Warm,g50,,
+ты,You,g50,,
+тяжёлый,heavy,g50,,
+увлекать,to take an interest in,g50,,
+удобный,Comfortable,g50,,
+усталый,Tired,g50,У него был очень усталый вид,He looked very tired
+учитель,Teacher,g50,,
+холодный,Cold,g50,,
+хороший,good,g50,,
+цвет,Color,g50,,
+человек,Person,g50,,
+что,(interrogative) what,g50,,
+школе,School,g50,,
+этот,this,g50,,
+я,I,g50,,
+большой,Big,g50 f100,,
+очень,Very,g50 f100,,
+хотеть,To want/desire,g50 f100,,
+смотреть,To look,g50 f200,,
