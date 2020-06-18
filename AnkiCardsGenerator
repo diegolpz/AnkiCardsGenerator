@@ -7,7 +7,7 @@
 rm out.csv
 
 # To clean up the input file , no undesired space, the last s/$// deletes the carriage return generated on windows systems
-sed -E '/^$/d;s/ +, +/g,/;s/^ +//;s/ +$//;s/$//' $1 > in.csv
+sed -E '/^$/d;s/ +, +/g,/;s/^ +//;s/ +$//;s/$//;y/ЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЯЧСМИТЬБЮ/йцукенгшщзхъфывапролджячсмитьбю/' $1 > in.csv
 
 while IFS= read -r line
 do
@@ -23,7 +23,13 @@ do
     tags=$(echo $line | awk -F, '{print $3}' - )
     example=$(csvawk '{print $4}' <<< "$line" | sed 's/^"//;s/"$//')
     exampleTrad=$(csvawk '{print $5}' <<< "$line" | sed 's/^"//;s/"$//')
-    echo $example $exampleTrad
-    echo "${word},\"<p>${ans}${openRussian} IPA:${ipa} ${audio}</p><p><a href=\"\"https://translate.yandex.com/?lang=ru-en&text=${example}\"\">${example}</a></p><p>${exampleTrad}</p> ${tab}\",${tags}" >> out.csv
+    if [[ -n "$example" ]]; then
+        yandexLink="<a href=\"\"https://translate.yandex.com/?lang=ru-en&text=${example}\"\">[yandx]</a>"
+    else
+        yandexLink=""
+    fi
+    phraseRus=$(echo ${example} | sed -E 's/([[:alpha:]]*-?[[:alpha:]]*)/<a href=\"\"https:\/\/en.wiktionary.org\/wiki\/\1#Russian\"\">\1<\/a>/g')
+    # echo $example $exampleTrad
+    echo "${word},\"<p>${ans}${openRussian} IPA:${ipa} ${audio}</p><p>${phraseRus}</p><p>${yandexLink}</p><p>${exampleTrad}</p> ${tab}\",${tags}" >> out.csv
 done <<< $(cat in.csv)
 rm test.html test1.html new.html in.csv
