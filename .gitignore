@@ -8,5 +8,6 @@ tmp/
 build
 htmlcov
 
+newVocabulary.csv
 out.csv
 examplesDeck.csv
